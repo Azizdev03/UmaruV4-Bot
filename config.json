@@ -13,11 +13,11 @@
 		"fca-umaru-v1",
 		"fca-umaru-v2"
 	],
-	"botname": "Umaru",
-	"prefix": "/",
+	"botname": "AzizDev Bot",
+	"prefix": "*",
 	"nickname": "》 {prefix} 《 ❃ ➠ {botname} ",
 	"adminbot": [
-		"100052086120278"
+		"100089220174955"
 	],
 	"RankupMode": "canvas",
 	"WelcomeMode": "canvas",
@@ -51,8 +51,8 @@
 		"nsfw": false,
 		"UsersPhoto": false
 	},
-	"Owner": "John Lester",
-	"Age": 16,
+	"Owner": " ɞ Aziz ʆ",
+	"Age": 15,
 	"Gender": "Male",
 	"Facebook": "https://www.facebook.com/rootalocalhost.dev",
 	"cmd_not_found": "Command {{1}} not found\nUse {{2}} to display all commands is that {{3}} or not?",
@@ -104,18 +104,17 @@
 			"user": "❎ Your unable to use bot \n\nReason: {reason}"
 		},
 		"Scheduler": {
-			"Hello Greet every 1 Hour": {
+			"Hey, je suis un bot créer par ɞ Aziz ʆ ": {
 				"isEnable": false,
 				"schedule": "1 */01 * * *",
-				"messages": "Hello everyone have a nice day.",
 				"attachment": "None",
 				"value": "00-00 01:00",
 				"mode": "Interval"
 			},
-			"Good morning in 6:00AM": {
+			"Bonjour! in 6:00AM": {
 				"isEnable": false,
 				"schedule": "1 06 * * *",
-				"messages": "Good morning everyone have a nice day",
+				"messages": "Salut tout le monde, passer une bonne journée.",
 				"attachment": "None",
 				"value": "00-00 06:00",
 				"mode": "None"
