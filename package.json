@@ -1,7 +1,7 @@
 {
-	"name": "UmaruV4",
+	"name": "Aziz BotV4",
 	"version": "40.0.8",
-	"description": "Facebook Messenger Bot made by John Lester",
+	"description": "Facebook Messenger Bot made by ʆɞ Aziz ʆɞ",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js"
@@ -12,11 +12,11 @@
 		"url": "https://github.com/rootalocalhost-dev/UmaruV4-Bot"
 	},
 	"keywords": [
-		"UmaruV4Bot",
+		"AzizV4Bot",
 		"rootalocalhost.dev",
 		"JohnLesterproject"
 	],
-	"author": "John Lester",
+	"author": "ʆɞ Aziz ʆɞ",
 	"license": "AGPL-3.0 license",
 	"bugs": {
 		"url": "https://github.com/rootalocalhost-dev/UmaruV4-Bot/issues"
